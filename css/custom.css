@@ -1,0 +1,42 @@
+:root {
+    /* Colores primario y secundario personalizados*/
+    --bs-primary: #db900f;
+    --bs-secondary: #6c757d;
+    --font-primary: 'Lato', sans-serif;
+}
+
+.logo-image{
+    max-height: 80px;
+    width: auto;
+}
+
+.nav-text{
+    font-size: 1.2rem;
+    font-family: var(--font-primary);
+}
+
+.dropdown-text{
+    font-size: 1rem;
+    font-family: var(--font-primary);
+}
+
+.mh-75{
+    height: 75vh;
+}
+
+.title-site{
+    text-align: center;
+    font-family: var(--font-primary);
+    font-size: 25px;
+    font-weight: 300;
+    color: #4a4a4a;
+    margin-bottom: 8px;
+}
+
+.subtitle-site{
+    text-align: center;
+    font-family: var(--font-primary);
+    font-size: 20px;
+    font-weight: 100 !important;
+    color: #323232;
+}
