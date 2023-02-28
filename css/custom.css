@@ -56,4 +56,9 @@ p{
     #presentationItems > div:nth-child(n+1){
         margin-top: 15px;
     }
+
+    .logo-image{
+        max-height: 40px;
+        width: auto;
+    }
 }
